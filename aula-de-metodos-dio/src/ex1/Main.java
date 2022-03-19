@@ -1,3 +1,5 @@
+//calcule as 4 operações básicas (soma, subtração, multiplicação e divisão). Sempre 2 valores devem ser passados.
+
 package ex1;
 import java.util.Scanner;
 
