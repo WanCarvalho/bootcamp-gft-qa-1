@@ -15,6 +15,7 @@ public class Main {
 
         System.out.println("i1 > i2 " + (i1 > i2));
         System.out.println("i1 < i2 " + (i1 < i2));
+        System.out.println("(i1 < i2) && (i1 >= i2) " + ((i1 < i2) && (i1 >= i2)));
 
         //exemplo de operações lógicas com a comparação de valores do tipo "inteiro"
 
