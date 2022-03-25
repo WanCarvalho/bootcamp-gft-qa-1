@@ -27,8 +27,6 @@ public class Ex3_MaiorEMedia {
                 maiorNumero = numero[contador];
             }
 
-
-
             contador++;
 
         } while (contador < numero.length);
