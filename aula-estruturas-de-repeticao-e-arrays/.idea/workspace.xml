@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52fec0d5-0185-4d93-a848-038b3a12bbeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/Ex5_Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/Ex6_Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/arrays/Ex1_OrdemInversa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +33,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Ex6_Fatorial">
-    <configuration name="Ex2_Nota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.exercicios.Ex2_Nota" />
+  <component name="RunManager" selected="Application.Ex1_OrdemInversa">
+    <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.arrays.Ex1_OrdemInversa" />
       <module name="aula-estruturas-de-repeticao-e-arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.exercicios.*" />
+          <option name="PATTERN" value="exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1_OrdemInversa" />
         <item itemvalue="Application.Ex6_Fatorial" />
         <item itemvalue="Application.Ex5_Tabuada" />
         <item itemvalue="Application.Ex4_ParEImpar" />
         <item itemvalue="Application.Ex3_MaiorEMedia" />
-        <item itemvalue="Application.Ex2_Nota" />
       </list>
     </recent_temporary>
   </component>
