@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52fec0d5-0185-4d93-a848-038b3a12bbeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicios/arrays/Ex2_Consoantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/arrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aula-estruturas-de-repeticao-e-arrays/exercicios/arrays/Ex2_Consoantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula-estruturas-de-repeticao-e-arrays/exercicios/arrays/Ex2_Consoantes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Ex2_Consoantes">
+  <component name="RunManager" selected="Application.Ex4_ArrayMultidimensional">
     <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicios.arrays.Ex1_OrdemInversa" />
       <module name="aula-estruturas-de-repeticao-e-arrays" />
@@ -60,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4_ParEImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.exercicios.Ex4_ParEImpar" />
+    <configuration name="Ex3_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.arrays.Ex3_NumerosAleatorios" />
       <module name="aula-estruturas-de-repeticao-e-arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.exercicios.*" />
+          <option name="PATTERN" value="exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.exercicios.Ex5_Tabuada" />
+    <configuration name="Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.arrays.Ex4_ArrayMultidimensional" />
       <module name="aula-estruturas-de-repeticao-e-arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.exercicios.*" />
+          <option name="PATTERN" value="exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex4_ArrayMultidimensional" />
+        <item itemvalue="Application.Ex3_NumerosAleatorios" />
         <item itemvalue="Application.Ex2_Consoantes" />
         <item itemvalue="Application.Ex1_OrdemInversa" />
         <item itemvalue="Application.Ex6_Fatorial" />
-        <item itemvalue="Application.Ex5_Tabuada" />
-        <item itemvalue="Application.Ex4_ParEImpar" />
       </list>
     </recent_temporary>
   </component>
